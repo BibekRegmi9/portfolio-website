@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "date": "23/01/2023",
+      "title": "MERN Stack Quiz App",
+      "description": "Built using html, css, javascript ,react, redux and express. User Authorization and Controllers used. Database: mongodb",
+      "url": "https://github.com/BibekRegmi9/mern_stack-QuizApp",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/05/22/22/28/brainstorm-4222728_1280.jpg"
+    },
+
+    {
+      "date": "1/3/2023",
+      "title": "E-Commerse Web App",
+      "description": "Using html, css, javascript ,react,Hooks, Router, Axios, redux, Node , Express . User Authorization  Database: mongodb",
+      "imgSrc": "https://cdn.pixabay.com/photo/2022/03/15/19/07/delivery-7070991_1280.png"
+    },
+    {
+      "date": "5/5/2023",
+      "title": "News Web App",
+      "description": "This is the  description about the project details.Using html, css, javascript ,react,Hooks,redux",
+      "url": "https://github.com/BibekRegmi9/news-monkey-app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/06/08/14/52/podcast-8049740_1280.png"
+    },
+
+    {
+      "date": "17/6/2023",
+      "title": "Frontend Gym Website",
+      "description": "Frontend Gym Website: html, css, javascript",
+      "url": "https://bibekregmi9.github.io/Gym-site/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/04/06/11/37/silhouette-2208079_1280.png"
+    },
+    {
+      "date": "20/7/2023",
+      "title": "Ecommerse ",
+      "description": "Ecommerse website using frontend:html, css, javascript and react, redux, hooks",
+      "url": "https://github.com/BibekRegmi9/Bonik-Ecommerce",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/12/11/18/24/woman-5823482_1280.png"
+    }
+  ]
+}
