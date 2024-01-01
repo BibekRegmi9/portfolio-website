@@ -1,4 +1,7 @@
-# Website live here [https://portfolio-9jed0j1q4-bibekregmi9.vercel.app/]
+# Website live here
+
+Link (https://portfolio-bibekregmi9.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

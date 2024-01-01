@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "date": "12/11/2023",
+      "title": "Airline Backend System",
+      "description": "Microservice based backend system, Rest api, Authentication using JWT, bcrypt encryption on password, Mysql database design, ORM Sequelize, Message Queue (rabbitMQ) implemented in reminder service for sending email/sms for the fight, Api Gateway for rate limiting ",
+      "url": "https://github.com/BibekRegmi9/FlightAndSearchService",
+      "imgSrc": "https://media.istockphoto.com/id/1394969672/photo/passenger-plane-flying-on-a-high-altitude-above-the-storm-clouds.webp?s=2048x2048&w=is&k=20&c=wbzvtStJcqHDfDWYwew6vR7cSceAoZmFZjSvGrS4iuU="
+    },
+
+    {
       "date": "23/01/2023",
       "title": "MERN Stack Quiz App",
       "description": "Built using html, css, javascript ,react, redux and express. User Authorization and Controllers used. Database: mongodb",
@@ -13,13 +21,6 @@
       "title": "E-Commerse Web App",
       "description": "Using html, css, javascript ,react,Hooks, Router, Axios, redux, Node , Express . User Authorization  Database: mongodb",
       "imgSrc": "https://cdn.pixabay.com/photo/2022/03/15/19/07/delivery-7070991_1280.png"
-    },
-    {
-      "date": "5/5/2023",
-      "title": "News Web App",
-      "description": "This is the  description about the project details.Using html, css, javascript ,react,Hooks,redux",
-      "url": "https://github.com/BibekRegmi9/news-monkey-app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2023/06/08/14/52/podcast-8049740_1280.png"
     },
 
     {
